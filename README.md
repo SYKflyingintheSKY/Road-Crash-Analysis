@@ -7,3 +7,9 @@ The data used here is the Road Crash Data from 2015-2019 for South Australia pre
 The datasets contain various details about the crash events including the vehicle and the people involved in the crash. In this project, only two datasets i.e. Crash and Units are considered. For more detailed information on the dataset, please refer to the Metadata file.
 
 Note: In the dataset, the exact day of the crash is not released by the data provider, being considered as sensitive information. When displaying dates, we will use the format ( Year-Month-Dayofweek) E.g.(2017-January-Sunday).
+
+# Environment
+* Ubuntu 20.04 LTS (Focal Fossa) 
+* Python (3.8) 
+* Jupyter Notebook 
+* Apache Spark (3.0.0) 
